@@ -1,0 +1,15 @@
+# frameworks exclusions
+/assets/less/*
+/assets/plugins/*
+
+# no binaries in git
+/assets/images/*
+/favicon.ico
+
+# no readme.txted
+/ReadMe.txt
+
+# osx noise
+.DS_Store
+profile
+
